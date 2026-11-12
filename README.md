@@ -65,7 +65,7 @@ A task and project management application built to help users organise projects,
 
 🔗 [View Repository](https://github.com/nebnnamdi/task-flow)
 
-🚀 [View Live Application](https://task-flow-n3b.vercel.app/)
+🚀 [View Live Application](https://task-flow-ashy-ten.vercel.app/)
 
 ### 2. RoboFriends – React Application
 
